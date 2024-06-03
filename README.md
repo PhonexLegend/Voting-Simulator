@@ -1,1 +1,1 @@
-"Voting Simulator | Coded By: Aditya Mishra (Grade 12)
+Voting Simulator | Coded By: Aditya Mishra (Grade 12)
