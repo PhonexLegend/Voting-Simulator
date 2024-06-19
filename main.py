@@ -1,35 +1,3 @@
-"""
-def AFIND(CITIES):
-    for i in CITIES:
-        if i[0] == 'A':
-            print(i)
-
-    return ""
-
-CITIES = ["AGRA", "AMRITSAR", "DELHI"]
-
-AFIND(CITIES)
-"""
-"""
-def word(st):
-
-    s = st.split()
-
-    l = len(s)
-
-    for i in range(l):
-
-        J = len(s[i])
-
-        print(J)
-
-    return ""
-
-st = ("This is an apple")
-
-word(st)
-
-"""
 import logging
 import tkinter as tk
 from tkinter import messagebox
